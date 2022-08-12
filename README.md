@@ -15,7 +15,7 @@
 - Azure
 - Git
 
-### My Projects : 
+### 📝  My Projects : 
 - Worked as React JS associate developer for a Bus booking system 
 - Worked as React JS associate developer for a real estate management application for selling and 
    buying properties 
