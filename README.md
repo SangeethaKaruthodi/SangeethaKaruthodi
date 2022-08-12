@@ -4,8 +4,16 @@
 - Have experience in React, Javascript, HTML and CSS
 - Familiar with Node js and Azure
 
-🛠 Languages and Tools
--![image](https://user-images.githubusercontent.com/111113942/184319492-50b25bd5-28ea-45f7-827d-2b6fc7e1b785.png)
+### 🛠 Languages and Tools
+- Visual Studio Code
+- React 
+- Redux
+- Material UI
+- HTML
+- CSS
+- Node js
+- Azure
+- Git
 
 
 <!--
