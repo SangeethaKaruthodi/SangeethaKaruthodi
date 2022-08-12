@@ -1,4 +1,7 @@
-### Hi there - 👋
+### 👩‍💻 About Me : 
+
+- I am a React Developer with 3.5 years of experience in the IT industry.
+- 
 
 <!--
 **SangeethaKaruthodi/SangeethaKaruthodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
