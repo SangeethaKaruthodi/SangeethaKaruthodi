@@ -1,7 +1,12 @@
 ### 👩‍💻 About Me : 
 
 - I am a React Developer with 3.5 years of experience in the IT industry.
-- 
+- Have experience in React, Javascript, HTML and CSS
+- Familiar with Node js and Azure
+
+🛠 Languages and Tools
+-![image](https://user-images.githubusercontent.com/111113942/184319492-50b25bd5-28ea-45f7-827d-2b6fc7e1b785.png)
+
 
 <!--
 **SangeethaKaruthodi/SangeethaKaruthodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
