@@ -1,7 +1,7 @@
 ### 👩‍💻 About Me : 
 
 - React Developer with 3.5 years of experience in the IT industry.
-- Experianced in React, Javascript, HTML and CSS
+- Experienced in React, Javascript, HTML and CSS
 - Familiar with Node js and Azure
 
 ### 🛠 Languages and Tools
