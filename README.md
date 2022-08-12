@@ -1,7 +1,7 @@
 ### 👩‍💻 About Me : 
 
-- I am a React Developer with 3.5 years of experience in the IT industry.
-- Have experience in React, Javascript, HTML and CSS
+- React Developer with 3.5 years of experience in the IT industry.
+- Experianced in React, Javascript, HTML and CSS
 - Familiar with Node js and Azure
 
 ### 🛠 Languages and Tools
@@ -12,12 +12,12 @@
 - HTML
 - CSS
 - Node js
-- Azure
+- Microsoft azure platform
 - Git
 
 ### 📝  My Projects : 
 - Worked as React JS associate developer for a Bus booking system 
-- Worked as React JS associate developer for a real estate management application for selling and 
+- Worked as React JS associate developer for real estate management application for selling and 
    buying properties 
 - Worked as React JS developer with a retail client for modernization of store management 
   system
