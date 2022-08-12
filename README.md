@@ -15,6 +15,14 @@
 - Azure
 - Git
 
+### My Projects : 
+- Worked as React JS associate developer for a Bus booking system 
+- Worked as React JS associate developer for a real estate management application for selling and 
+   buying properties 
+- Worked as React JS developer with a retail client for modernization of store management 
+  system
+- Worked as React JS developer with a retail client for modernization of vendor management 
+  system
 
 <!--
 **SangeethaKaruthodi/SangeethaKaruthodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
